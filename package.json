@@ -1,12 +1,12 @@
 {
   "name": "dokku-git-remote-stream",
   "version": "0.0.1",
-  "description": "",
+  "description": "A transform to parse dokku host and app name from a string",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Richard Walker <digitalsadhu@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "through2": "^0.6.3"
