@@ -1,5 +1,5 @@
 {
-  "name": "dokku-git-remote-stream",
+  "name": "dokku-git-remote-stream-transform",
   "version": "0.0.1",
   "description": "A stream transform to parse dokku host and app name from a string",
   "main": "index.js",
